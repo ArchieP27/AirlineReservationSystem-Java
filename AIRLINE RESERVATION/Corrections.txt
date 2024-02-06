@@ -1,0 +1,20 @@
+change from null layout
+create helper class
+- phone number checker
+- email checker
+
+
+SEARCH PAGE - FROM, TO - ADD LOCATIONS
+remove all
+
+add menubar - customer flight display,other options
+
+FLIGHT SEATS -
+seat made selectable
+
+PASSENGER INFO -
+change customer to passenger
+when email selected, remove optional
+
+CALENDAR-
+make not selecteable, change color to white.
